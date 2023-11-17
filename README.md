@@ -18,6 +18,7 @@
 
 <h1>How to make Docker image?</h1>
 <b>Step 1:</b> Open docker on your desktop
+<img src="https://github.com/Asifekhlaque/DockerNotes/assets/132199879/9ac039ef-655e-4cd6-848a-5cac4166d3c2" >
 
 <b>Step 2:</b> Make a folder and write your html content and also make Dockerfile
 
