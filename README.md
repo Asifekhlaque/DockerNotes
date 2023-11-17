@@ -17,8 +17,9 @@
    </ul>  
 
 <h1>How to make Docker image?</h1>
-Step 1: Open docker on your desktop
-Step 2: Make a folder and write your html content and also make Dockerfile
+<b>Step 1:</b> Open docker on your desktop
+
+<b>Step 2:</b> Make a folder and write your html content and also make Dockerfile
 
 # Docker File content:
 
