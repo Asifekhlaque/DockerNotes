@@ -41,7 +41,7 @@
      docker build -t (imagenameallareinsmallletter) .
 <img src="https://github.com/Asifekhlaque/DockerNotes/assets/132199879/ac432497-1ed8-4b3f-8b32-effbfd5ef571">
 
-And your docker file will upload 🥳 🥳
+And your docker file will upload 🎉🎉🎉
 
 <b>Step 4:</b> For hosting your docker image
 
