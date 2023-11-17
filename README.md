@@ -1,5 +1,5 @@
 # DockerNotes
-<img src="![image](https://github.com/Asifekhlaque/DockerNotes/assets/132199879/f20f4255-10d6-4bae-947e-e49f2fde79ad)">
+<img src="https://github.com/Asifekhlaque/DockerNotes/assets/132199879/f20f4255-10d6-4bae-947e-e49f2fde79ad">
 <h1>What is Docker?</h1>
 <ul>
   <li>•	Docker is a software platform that allows you to build, test, and deploy applications quickly. </li>
