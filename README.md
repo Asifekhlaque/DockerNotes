@@ -22,3 +22,28 @@ Step 2: Make a folder and write your html content and also make Dockerfile
 
 # Docker File content:
 
+      FROM redhat/ubi8
+
+      LABEL maintainer="IIBM Patna"
+
+      RUN yum -y install httpd
+
+      COPY index.html /var/www/html
+
+      ENTRYPOINT ["/usr/sbin/httpd", "-D", "FOREGROUND"]
+
+      EXPOSE 80
+
+Step 3:
+
+     docker build -t (imagenameallareinsmallletter) .
+
+And your docker file will upload
+
+Step 4: For hosting your docker image
+
+     docker run -d -p 8080:80 (Image Name)
+
+For stop it 
+
+    docker stop (Container ID) 
