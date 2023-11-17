@@ -34,13 +34,13 @@ Step 2: Make a folder and write your html content and also make Dockerfile
 
       EXPOSE 80
 
-Step 3:
+<b>Step 3:</b>
 
      docker build -t (imagenameallareinsmallletter) .
 
 And your docker file will upload
 
-Step 4: For hosting your docker image
+<b>Step 4:</b> For hosting your docker image
 
      docker run -d -p 8080:80 (Image Name)
 
